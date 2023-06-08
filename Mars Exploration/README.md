@@ -4,7 +4,7 @@
 ---
 A space explorer's ship crashed on Mars! They send a series of SOS messages to Earth for help.
 
-<center><img src="https://s3.amazonaws.com/hr-challenge-images/16032/1453204202-9e3fd295bb-NASA_Mars_Rover.jpg"/></center>
+<p align="center"><img src="https://s3.amazonaws.com/hr-challenge-images/16032/1453204202-9e3fd295bb-NASA_Mars_Rover.jpg"/></p>
 <br>
 
 Letters in some of the `SOS` messages are altered by cosmic radiation during transmission.<br>
