@@ -33,7 +33,9 @@ Yes
 
 **Explanation 0**
 
-![alice and boat explanation 0](../assets/aliceboatexp0.png)
+Alice has $m = 2$ boats and a maximum capacity of $c = 2$ passengers per boat. This means she can transport at most $m . c = 4$ passengers at a time.
+
+There are $n = 5$ tour groups, and the largest tour group contains $p_3 = 4$ passengers. Because Alice will be able to transport each group using $\leq m$ boats per group, we print *Yes*.
 
 **Sample Input 1**
 
@@ -50,4 +52,6 @@ No
 
 **Explanation 1**
 
-![alice and boat explanation 1](../assets/aliceboatexp1.png)
+Alice has $m = 2$ boats and a maximum capacity of $c = 1$ passenger per boat. This means she can transport at most $m . c = 2$ passengers at a time.
+
+There are $n = 5$ tour groups, and the largest tour group contains $p_3 = 4$ passengers. Because Alice does not have enough boats to transport a group of four passengers, we print *No*.
