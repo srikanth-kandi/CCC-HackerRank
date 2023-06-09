@@ -4,6 +4,8 @@ This Repository is being created for the solutions of HackerRank Contest organiz
 
 Link to the contest is [https://www.hackerrank.com/may-jun-2023-ccc-lbrce-coding-practice-open](https://www.hackerrank.com/may-jun-2023-ccc-lbrce-coding-practice-open)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=srikanth-kandi%2FCCC-HackerRank&label=Visitors&labelColor=%232ccce4&countColor=%23697689&style=plastic)
+
 ## Contributors 🚀
 
 <table>
