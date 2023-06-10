@@ -11,8 +11,8 @@ Link to the contest is [https://www.hackerrank.com/may-jun-2023-ccc-lbrce-coding
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.github.com/srikanth-kandi"><img src="https://avatars.githubusercontent.com/u/87417638?v=4?s=100" width="100px;" alt="Srikanth Kandi"/><br /><sub><b>Srikanth Kandi</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.github.com/samuel656"><img src="https://avatars.githubusercontent.com/u/84395570?v=4?s=100" width="100px;" alt="Samuel Adirala"/><br /><sub><b>Samuel Adirala</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/srikanth-kandi"><img src="https://avatars.githubusercontent.com/u/87417638?v=4?s=100" width="100px;" alt="Srikanth Kandi"/><br /><sub><b>Srikanth Kandi</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/samuel656"><img src="https://avatars.githubusercontent.com/u/84395570?v=4?s=100" width="100px;" alt="Samuel Adirala"/><br /><sub><b>Samuel Adirala</b></sub></a></td>
     </tr>
   </tbody>
 </table>
