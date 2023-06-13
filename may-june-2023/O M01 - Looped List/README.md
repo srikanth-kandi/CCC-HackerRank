@@ -16,10 +16,10 @@ Terminating Lists :
 Non-Terminating Lists(Loop in the list) :
 
 ```
-1 -> 2 -> 5 -> 15 -> 7-------
-	 ^	 	                 |
-	 |                       |
-	 ---- 3 <- 10 <- 9<------
+1 -> 2 -> 5 -> 15 -> 7-----------
+	  ^	 	         |
+	  |                      |
+	  --- 3 <- 10 <- 9<------
 ```
 
 In the second type of list, you can traverse forever and never reach the end.
