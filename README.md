@@ -1,8 +1,13 @@
 # CCC HackerRank
 
-This Repository is being created for the solutions of HackerRank Contest organized by [CCC](https://ccc.training/) at [Lakireddy Bali Reddy College of Engineering](https://lbrce.ac.in/) from May 28 2023, 10:00 pm IST to Jun 10 2023, 11:45 pm IST.
+This Repository is being created for the solutions of HackerRank Contest organized by [CCC](https://ccc.training/) at [Lakireddy Bali Reddy College of Engineering](https://lbrce.ac.in/) for the Star Batch Training.
 
-Link to the contest is [https://www.hackerrank.com/may-jun-2023-ccc-lbrce-coding-practice-open](https://www.hackerrank.com/may-jun-2023-ccc-lbrce-coding-practice-open)
+## Contests ⌨️
+
+|Contest name|Duration|Contest link|Solutions link|
+|:-:|:-:|:-:|:-:|
+|June 2023 : CCC LBRCE : Coding Practice|May 28 2023, 10:00 pm IST to Jun 17 2023, 11:45 pm IST|[click here](https://www.hackerrank.com/may-jun-2023-ccc-lbrce-coding-practice-open)|[click here](https://github.com/srikanth-kandi/CCC-HackerRank/tree/main/may-june-2023)|
+|June 2023 : CCC LBRCE : Practice Assessment|Jun 13 2023, 3:00 pm IST to Jun 13 2023, 4:00 pm IST|[click here](https://www.hackerrank.com/contests/jun-23-ccc-lbrce-practice-assessment/challenges)|[click here](https://github.com/srikanth-kandi/CCC-HackerRank/tree/main/june-practice1-2023)|
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=srikanth-kandi%2FCCC-HackerRank&label=Visitors&labelColor=%232ccce4&countColor=%23697689&style=plastic)
 
