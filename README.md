@@ -32,12 +32,12 @@ This Repository is being created for the solutions of HackerRank Contest organiz
 
 <p align="left">
   <a  href="https://openai.com/blog/chatgpt" target="_blank">
-  <img width="50" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" alt="ChatGPT">
+  <img width="50" src="https://raw.githubusercontent.com/lencx/ChatGPT/main/public/logo.png" alt="ChatGPT">
   </a>
   <a href="https://github.com/features/copilot" target="_blank">
   <img width="50" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.77.9225/1677787102885/Microsoft.VisualStudio.Services.Icons.Default" alt="Github Co-Pilot">
   </a>
   <a href="https://www.geeksforgeeks.org" target="_blank">
-    <img width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/77px-GeeksforGeeks.svg.png" alt="geeksforgeeks"/>
+    <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/77px-GeeksforGeeks.svg.png" alt="geeksforgeeks"/>
   </a>
 </p>
