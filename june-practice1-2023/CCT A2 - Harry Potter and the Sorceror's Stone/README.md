@@ -21,10 +21,10 @@ In next Q lines, each line contains one string either "Harry" (without quotes) o
 
 **Constraints**
 
-1≤N≤$10^4$
-1≤A[i]≤$10^4$
-1≤Q≤$10^5$
-1≤X≤$10^7$
+1 ≤ N ≤ $10^4$<br>
+1 ≤ A[i] ≤ $10^4$<br>
+1 ≤ Q ≤ $10^5$<br>
+1 ≤ X ≤ $10^7$
 
 **Output Format**
 
