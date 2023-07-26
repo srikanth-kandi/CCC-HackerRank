@@ -15,8 +15,8 @@ The second line contains $N$ space-separated integers describing the respective 
 
 **Constraints**
 
-1<=$n$<=40<br>
-1<=$c_i$<=1000
+1 <= $n$ <= 40<br>
+1 <= $c_i$ <= 1000
 
 **Output Format**
 
